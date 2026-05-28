@@ -1,3 +1,4 @@
 file4 created.
 Adding new line in file4 and saving it.
 Adding new line in main after creating a commit in new branch.
+Adding line for git merge conflict.
