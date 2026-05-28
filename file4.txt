@@ -2,3 +2,5 @@ file4 created.
 Adding new line in file4 and saving it.
 Adding new line in main after creating a commit in new branch.
 Adding new line in main file for merge conflict demo.
+==== Resolved conflict and adding both the lines.
+Adding line for git merge conflict.
